@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jejeo\\source\\repos\\SpaceWarProject\\SpaceWarProject\\SpaceWarProject.csproj",
+      "projectUniqueName": "C:\\Users\\jejeo\\Documents\\GitHub\\SpaceWarProject\\SpaceWarProject.csproj",
       "projectName": "SpaceWarProject",
-      "projectPath": "C:\\Users\\jejeo\\source\\repos\\SpaceWarProject\\SpaceWarProject\\SpaceWarProject.csproj",
+      "projectPath": "C:\\Users\\jejeo\\Documents\\GitHub\\SpaceWarProject\\SpaceWarProject.csproj",
       "packagesPath": "C:\\Users\\jejeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jejeo\\source\\repos\\SpaceWarProject\\SpaceWarProject\\obj\\",
+      "outputPath": "C:\\Users\\jejeo\\Documents\\GitHub\\SpaceWarProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jejeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
